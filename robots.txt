@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salmanahmad34.github.io/tooltrove-backlinks/sitemap.xml
